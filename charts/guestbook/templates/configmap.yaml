@@ -4,4 +4,4 @@ metadata:
   name: guestbook-html
 data:
   index.html: |
-{{ .Files.Get "../../html/index.html" | indent 4 }}
+{{ .Files.Get "html/index.html" | indent 4 }}
