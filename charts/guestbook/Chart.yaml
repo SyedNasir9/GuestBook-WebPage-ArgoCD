@@ -1,0 +1,5 @@
+apiVersion: v2
+name: guestbook
+description: Minimal guestbook static site for GitOps demo
+version: 0.1.0
+appVersion: "1.0"

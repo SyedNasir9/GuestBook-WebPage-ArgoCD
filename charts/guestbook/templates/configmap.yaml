@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: guestbook-html
+data:
+  index.html: |
+{{ .Files.Get "../../html/index.html" | indent 4 }}
