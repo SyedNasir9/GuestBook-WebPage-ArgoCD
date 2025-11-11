@@ -1,0 +1,4 @@
+apiVersion: v2
+name: webapp-nginx
+description: A simple static HTML app on Nginx
+version: 0.1.0
