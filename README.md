@@ -1,6 +1,6 @@
 <div align="center">
   
-# GitOps-ArgoCD-Demo
+# GitOps-ArgoCD
 
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -196,3 +196,4 @@ This project showcases:
 Built with Kubernetes | ArgoCD | Helm | GitOps-First Mindset
 
 </div>
+
